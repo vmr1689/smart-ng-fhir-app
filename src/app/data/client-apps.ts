@@ -18,9 +18,9 @@ export const CLIENT_APPS: ClientApp[] = [
     {
         name: 'CHBase PPE - Sample App - Live Demo',
         uniqueName: 'sampleappdocs',
-        clientId: '7be9756f-1cb2-4c7c-9b8c-b2acc2325994',
-        redirectUri: 'https://chbase.github.io/smart-ng-fhir-app/redirect/sampleappdocs',
-        launchUrl: 'https://chbase.github.io/smart-ng-fhir-app/launch/sampleappdocs',
+        clientId: 'dc44e287-b68e-46db-877f-7f53c3a594d3',
+        redirectUri: 'https://vmr1689.github.io/smart-on-fhir-tutorial-1/example-smart-app/',
+        launchUrl: 'https://vmr1689.github.io/smart-on-fhir-tutorial-1/example-smart-app/launch.html',
         scopes: 'patient/*.*',
         standalonePatient: true,
         ehrLaunch: true,
