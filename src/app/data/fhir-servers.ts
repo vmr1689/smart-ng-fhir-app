@@ -6,7 +6,7 @@ export const FHIR_SERVERS: FhirServer[] = [
     {
         uniqueName: 'chbaseppe',
         name: 'CHBase PPE',
-        baseUrl: 'https://platform.ppe.chbase.com/api/fhir',
+        baseUrl: 'https://fhir-ehr.sandboxcerner.com/dstu2/0b8a0111-e8e6-4c26-a91c-5069cbc6b1ca',
         information: {
             patientStandalone: [
                 'Application Configuration Center: https://acc.ppe.chbase.com',
